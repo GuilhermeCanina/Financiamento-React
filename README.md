@@ -21,4 +21,4 @@ npm start
 ```
 
 ## 🖼️ Imagem
-![Financiamento Screenshot](./assets/financiamento-preview.png)
+![Financiamento Screenshot](https://github.com/GuilhermeCanina/Financiamento-React/blob/b786183a79a50183637228ee9ecd5d461181ad38/assets/images/Captura%20de%20tela%202025-07-28%20085353.png)
